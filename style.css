@@ -1,0 +1,16 @@
+.img-content {
+  width: 765px;
+  height: 400px;
+}
+.text-content {
+  font-size: 22px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+@media (max-widht: 7950x) {
+  .img-content {
+    width: 500px;
+  }
+  .text-content {
+    font-size: 16px;
+  }
+}
